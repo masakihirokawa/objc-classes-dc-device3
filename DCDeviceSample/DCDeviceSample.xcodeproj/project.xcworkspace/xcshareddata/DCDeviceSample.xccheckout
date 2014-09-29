@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B036E131-910E-43F5-9601-E223B807B94C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DCDeviceSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>183FB82498EBA0CE2211CDBE0A89D452A067A6A7</key>
+		<string>https://github.com/masakihirokawa/objc-classes-dc-device2.git</string>
+		<key>28E87737287DF108A9F4CD0EADFC3459BD07C2E3</key>
+		<string>https://github.com/masakihirokawa/objc-classes-dc-device3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DCDeviceSample/DCDeviceSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>183FB82498EBA0CE2211CDBE0A89D452A067A6A7</key>
+		<string>../../../../objc-classes-dc-device2</string>
+		<key>28E87737287DF108A9F4CD0EADFC3459BD07C2E3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/masakihirokawa/objc-classes-dc-device3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>28E87737287DF108A9F4CD0EADFC3459BD07C2E3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>183FB82498EBA0CE2211CDBE0A89D452A067A6A7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>objc-classes-dc-device2</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>28E87737287DF108A9F4CD0EADFC3459BD07C2E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>objc-classes-dc-device3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
